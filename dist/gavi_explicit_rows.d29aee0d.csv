@@ -1,0 +1,194 @@
+gavi_status,income_status,country_name,sum_unvaccinated
+GAVI,Low Income,Ethiopia,853384
+GAVI,Low Income,Democratic Republic of the Congo,603662
+GAVI,Low Income,Afghanistan,381796
+GAVI,Low Income,Chad,346031
+GAVI,Low Income,Somalia,343332
+GAVI,Low Income,South Sudan,308874
+GAVI,Low Income,Yemen,268507
+GAVI,Low Income,Uganda,253633
+GAVI,Low Income,Mali,248220
+GAVI,Low Income,Guinea,235682
+GAVI,Low Income,Mozambique,214586
+GAVI,Low Income,Madagascar,212624
+GAVI,Low Income,Syrian Arab Republic,203207
+GAVI,Low Income,Niger,184595
+GAVI,Low Income,Haiti,100190
+GAVI,Low Income,Central African Republic,80849
+GAVI,Low Income,Malawi,76714
+GAVI,Low Income,Benin,69223
+GAVI,Low Income,Burkina Faso,62824
+GAVI,Low Income,United Republic of Tanzania,62480
+GAVI,Low Income,Zimbabwe,56265
+GAVI,Low Income,Nepal,55634
+GAVI,Low Income,Burundi,38111
+GAVI,Low Income,Senegal,37445
+GAVI,Low Income,Togo,24862
+GAVI,Low Income,Sierra Leone,23966
+GAVI,Low Income,Liberia,21477
+GAVI,Low Income,Democratic People’s Republic of Korea,10399
+GAVI,Low Income,Tajikistan,9734
+GAVI,Low Income,Guinea-Bissau,8093
+GAVI,Low Income,Eritrea,7741
+GAVI,Low Income,Rwanda,7160
+GAVI,Low Income,Gambia,6259
+GAVI,Low Income,Comoros,2245
+GAVI,lower middle income,Pakistan,1275695
+GAVI,lower middle income,Kenya,266973
+GAVI,lower middle income,Côte d’Ivoire,133897
+GAVI,lower middle income,Cameroon,113457
+GAVI,lower middle income,Myanmar,99101
+GAVI,lower middle income,Bangladesh,89489
+GAVI,lower middle income,Sudan,63157
+GAVI,lower middle income,Congo,53477
+GAVI,lower middle income,Zambia,37062
+GAVI,lower middle income,Mauritania,26519
+GAVI,lower middle income,Cambodia,25055
+GAVI,lower middle income,Lao People’s Democratic Republic,23128
+GAVI,lower middle income,Kyrgyzstan,11648
+GAVI,lower middle income,Ghana,8441
+GAVI,lower middle income,Djibouti,6583
+GAVI,lower middle income,Lesotho,4087
+GAVI,lower middle income,Nicaragua,2336
+Trans-itioned ,upper middle income,Azerbaijan,8186
+Trans-itioned ,upper middle income,Armenia,2269
+Trans-itioned ,upper middle income,Cuba,1227
+Trans-itioned ,upper middle income,Guyana,460
+Trans-itioned ,lower middle income,Indonesia,1009353
+Trans-itioned ,lower middle income,Angola,557074
+Trans-itioned ,lower middle income,Ukraine,231406
+Trans-itioned ,lower middle income,Bolivia (Plurinational State of),39192
+Trans-itioned ,lower middle income,Timor-Leste,10394
+Trans-itioned ,lower middle income,Uzbekistan,6352
+Trans-itioned ,lower middle income,Honduras,5814
+Trans-itioned ,lower middle income,Republic of Moldova,4843
+Trans-itioned ,lower middle income,Georgia,4630
+Trans-itioned ,lower middle income,Sri Lanka,3109
+Trans-itioned ,lower middle income,Mongolia,694
+Trans-itioned ,lower middle income,Kiribati,311
+Trans-itioned ,lower middle income,Bhutan,282
+Trans-itioning,lower middle income,Nigeria,3980310
+Trans-itioning,lower middle income,India,2913641
+Trans-itioning,lower middle income,Viet Nam,92634
+Trans-itioning,lower middle income,Papua New Guinea,81778
+Trans-itioning,lower middle income,Solomon Islands,1009
+Trans-itioning,lower middle income,Sao Tome and Principe,327
+NON GAVI,lower middle income,Philippines,283629
+NON GAVI,lower middle income,Egypt,147396
+NON GAVI,lower middle income,El Salvador,17333
+NON GAVI,lower middle income,Morocco,6801
+NON GAVI,lower middle income,Tunisia,4049
+NON GAVI,lower middle income,Eswatini,3713
+NON GAVI,lower middle income,State of Palestine,1520
+NON GAVI,lower middle income,Vanuatu,1035
+NON GAVI,lower middle income,Micronesia (Federated States of ),657
+NON GAVI,lower middle income,Cabo Verde,443
+NON GAVI,upper middle income,Iraq,450231
+NON GAVI,upper middle income,South Africa,385651
+NON GAVI,upper middle income,Brazil,316019
+NON GAVI,upper middle income,China,163560
+NON GAVI,upper middle income,Argentina,103897
+NON GAVI,upper middle income,Peru,101849
+NON GAVI,upper middle income,Venezuela (Bolivarian Republic of),94669
+NON GAVI,upper middle income,Algeria,80604
+NON GAVI,upper middle income,Guatemala,74195
+NON GAVI,upper middle income,Mexico,67910
+NON GAVI,upper middle income,Colombia,57644
+NON GAVI,upper middle income,Russian Federation,53816
+NON GAVI,upper middle income,Turkey,50848
+NON GAVI,upper middle income,Ecuador,48619
+NON GAVI,upper middle income,Romania,33581
+NON GAVI,upper middle income,Dominican Republic,33395
+NON GAVI,upper middle income,Equatorial Guinea,29989
+NON GAVI,upper middle income,Lebanon,18862
+NON GAVI,upper middle income,Panama,14758
+NON GAVI,upper middle income,Gabon,14040
+NON GAVI,upper middle income,Iran (Islamic Republic of),12739
+NON GAVI,upper middle income,Saudi Arabia,12456
+NON GAVI,upper middle income,Paraguay,10997
+NON GAVI,upper middle income,Namibia,8449
+NON GAVI,upper middle income,Bosnia and Herzegovina,8068
+NON GAVI,upper middle income,Thailand,6898
+NON GAVI,upper middle income,Malaysia,5338
+NON GAVI,upper middle income,Bulgaria,5209
+NON GAVI,upper middle income,Libya,4809
+NON GAVI,upper middle income,Serbia,4597
+NON GAVI,upper middle income,Kazakhstan,3684
+NON GAVI,upper middle income,Belarus,3357
+NON GAVI,upper middle income,Jamaica,3279
+NON GAVI,upper middle income,Croatia,3031
+NON GAVI,upper middle income,Costa Rica,2736
+NON GAVI,upper middle income,United Arab Emirates,2650
+NON GAVI,upper middle income,Botswana,2577
+NON GAVI,upper middle income,Jordan,2432
+NON GAVI,upper middle income,Uruguay,2380
+NON GAVI,upper middle income,The former Yugoslav Republic of Macedonia,2089
+NON GAVI,upper middle income,Singapore,1988
+NON GAVI,upper middle income,Trinidad and Tobago,1947
+NON GAVI,upper middle income,Suriname,1895
+NON GAVI,upper middle income,Lithuania,1844
+NON GAVI,upper middle income,Turkmenistan,1351
+NON GAVI,upper middle income,Samoa,1220
+NON GAVI,upper middle income,Belize,992
+NON GAVI,upper middle income,Montenegro,915
+NON GAVI,upper middle income,Oman,805
+NON GAVI,upper middle income,Mauritius,792
+NON GAVI,upper middle income,Qatar,778
+NON GAVI,upper middle income,Bahrain,651
+NON GAVI,upper middle income,Kuwait,646
+NON GAVI,high income: nonoecd,Tonga,477
+NON GAVI,high income: nonoecd,Saint Lucia,425
+NON GAVI,high income: nonoecd,Latvia,389
+NON GAVI,high income: nonoecd,Cyprus,377
+NON GAVI,high income: nonoecd,Albania,340
+NON GAVI,high income: nonoecd,Barbados,335
+NON GAVI,high income: nonoecd,Bahamas,332
+NON GAVI,high income: nonoecd,Marshall Islands,205
+NON GAVI,high income: nonoecd,Fiji,170
+NON GAVI,high income: nonoecd,Dominica,109
+NON GAVI,high income: nonoecd,Malta,85
+NON GAVI,high income: nonoecd,Antigua and Barbuda,81
+NON GAVI,high income: nonoecd,Grenada,79
+NON GAVI,high income: nonoecd,Maldives,76
+NON GAVI,high income: nonoecd,Brunei Darussalam,66
+NON GAVI,high income: nonoecd,Seychelles,44
+NON GAVI,high income: nonoecd,San Marino,37
+NON GAVI,high income: nonoecd,Nauru,29
+NON GAVI,high income: nonoecd,Saint Kitts and Nevis,27
+NON GAVI,high income: nonoecd,Saint Vincent and The Grenadines,17
+NON GAVI,high income: nonoecd,Palau,13
+NON GAVI,high income: nonoecd,Tuvalu,9
+NON GAVI,high income: nonoecd,Andorra,6
+NON GAVI,high income: nonoecd,Monaco,4
+NON GAVI,high income: oecd,United States of America,203141
+NON GAVI,high income: oecd,United Kingdom of Great Britain and Northern Ireland,48211
+NON GAVI,high income: oecd,Germany,36148
+NON GAVI,high income: oecd,Canada,34791
+NON GAVI,high income: oecd,France,30353
+NON GAVI,high income: oecd,Italy,29044
+NON GAVI,high income: oecd,Chile,16494
+NON GAVI,high income: oecd,Australia,15648
+NON GAVI,high income: oecd,Netherlands,10785
+NON GAVI,high income: oecd,Japan,10311
+NON GAVI,high income: oecd,Republic of Korea,9006
+NON GAVI,high income: oecd,Austria,8447
+NON GAVI,high income: oecd,Spain,7963
+NON GAVI,high income: oecd,Poland,6961
+NON GAVI,high income: oecd,Finland,6561
+NON GAVI,high income: oecd,Czechia,4297
+NON GAVI,high income: oecd,New Zealand,3694
+NON GAVI,high income: oecd,Sweden,3629
+NON GAVI,high income: oecd,Israel,3303
+NON GAVI,high income: oecd,Ireland,3269
+NON GAVI,high income: oecd,Switzerland,2631
+NON GAVI,high income: oecd,Belgium,2593
+NON GAVI,high income: oecd,Norway,2527
+NON GAVI,high income: oecd,Slovakia,2249
+NON GAVI,high income: oecd,Portugal,1570
+NON GAVI,high income: oecd,Slovenia,1253
+NON GAVI,high income: oecd,Denmark,1209
+NON GAVI,high income: oecd,Estonia,973
+NON GAVI,high income: oecd,Greece,888
+NON GAVI,high income: oecd,Hungary,869
+NON GAVI,high income: oecd,Iceland,486
+NON GAVI,high income: oecd,Luxembourg,66

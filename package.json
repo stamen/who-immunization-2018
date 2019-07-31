@@ -1,0 +1,43 @@
+{
+  "name": "who-immunization-2018",
+  "version": "0.0.1",
+  "description": "Working project directory for the 2018 WHO immunization viz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel serve ./src/index.html ./src/**/index.html",
+    "build": "parcel build --public-url=/who-immunization/2018/ ./src/index.html ./src/**/index.html",
+    "deploy_studio": "rsync -rvt --delete dist/ studio.stamen.com:/var/www/com.stamen.studio/who-immunization/2018/"
+  },
+  "author": "Colin Sullivan <colin@colin-sullivan.net>",
+  "license": "SEE LICENSE IN LICENSE.TXT",
+  "dependencies": {
+    "country-data": "0.0.31",
+    "d3": "^5.9.2",
+    "d3-geo-projection": "^2.7.0",
+    "d3-svg-legend": "^2.25.6",
+    "data": "^0.6.1",
+    "src": "^1.1.2",
+    "topojson": "^3.0.2"
+  },
+  "eslintConfig": {
+    "extends": "eslint:recommended",
+    "parser": "babel-eslint",
+    "env": {
+      "browser": true,
+      "node": false,
+      "es6": true
+    },
+    "rules": {
+      "no-console": 0,
+      "no-use-before-define": "error",
+      "block-scoped-var": "error",
+      "no-case-declarations": 0,
+      "prefer-const": "error"
+    }
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "sass": "^1.20.3"
+  }
+}

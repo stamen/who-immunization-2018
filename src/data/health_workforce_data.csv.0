@@ -1,0 +1,26 @@
+Notice,,
+,,
+"Date generated",,
+,"2019-05-27 22:05:26.0",
+"Source URL",,
+,"https://apps.who.int/gho/athena/data/GHO/HWF_0006,HWF_0007,HWF_0008,HWF_0009?filter=COUNTRY:*&format=xml&profile=excel",
+,,
+"Content summary",,
+,"Data (coded)",
+,"Data (text)",
+,Indicator,
+,"PUBLISH STATES",
+,Year,
+,Country,
+,,
+Measures,,
+,"Nursing and midwifery personnel (per 10 000 population)",http://apps.who.int/gho/data/node.wrapper.imr?x-id=5319
+,"Nursing and midwifery personnel  (number)",http://apps.who.int/gho/data/node.wrapper.imr?x-id=5320
+,"Nursing personnel (number)",http://apps.who.int/gho/data/node.wrapper.imr?x-id=5321
+,"Midwifery personnel (number)",http://apps.who.int/gho/data/node.wrapper.imr?x-id=5322
+,,
+Copyright,,
+,"(c) World Health Organization",
+,,
+Disclaimer,,
+,"The information in this database is provided as a service to our users. Any use of information in the web site should be accompanied by an acknowledgment of WHO as the source. The responsibility for the interpretation and use of the material lies with the user. In no event shall the World Health Organization be liable for any damages arising from the use of the information linked to this section.",

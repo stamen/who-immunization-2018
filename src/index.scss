@@ -1,0 +1,94 @@
+$orange: #ffab00;
+$green: #00ab00;
+
+body {
+  font-family: sans-serif;
+}
+
+nav {
+  a {
+    display: block;
+  }
+}
+
+.line {
+  fill: none;
+  stroke: $orange;
+  stroke-width: 3;
+}
+
+.line.secondary {
+  stroke: $green;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+/* Style the dots by assigning a fill and stroke */
+.dot {
+  fill: #ffab00;
+  stroke: #fff;
+}
+
+.focus circle {
+  fill: none;
+  stroke: steelblue;
+}
+
+g.tick {
+  text {
+    font-size: 12px;
+  }
+}
+
+.yaxis {
+  g.tick {
+    text {
+      color: $orange;
+    }
+  }
+}
+
+.yaxis.secondary {
+  g.tick {
+    text {
+      color: $green;
+    }
+  }
+}
+
+.legend {
+  right: 250px;
+  width: 250px;
+
+  .legend-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 1em;
+
+    .color-swatch {
+      flex: 0 0 auto;
+      height: 20px;
+      width: 20px;
+
+      //background-color: $orange;
+
+      margin-right: 1em;
+    }
+
+    .color-swatch.secondary {
+      background-color: $green;
+    }
+  }
+}
+
+g.title {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+div.plot-container {
+}

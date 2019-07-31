@@ -1,0 +1,197 @@
+Country,dtp3,Unvaccinated,Status
+Central African Republic,47,80943,Fragile
+Chad,41,357357,Fragile
+Democratic Republic of the Congo,81,616420,Fragile
+Ethiopia,72,954534,Fragile
+Haiti,64,92269,Fragile
+Iraq,84,174081,Fragile
+Mali,71,215469,Fragile
+Niger,79,207933,Fragile
+Somalia,42,339666,Fragile
+South Sudan,49,184799,Fragile
+Sudan,93,90313,Fragile
+Syrian Arab Republic,47,222506,Fragile
+Yemen,65,290690,Fragile
+,,,Fragile
+Pakistan,75,1408502,Polio
+Afghanistan,66,389505,Polio
+Nigeria,57,3000091,Polio
+Equatorial Guinea,25,30519,Others
+Samoa,34,3122,Others
+Guinea,45,236309,Others
+Ukraine,50,209220,Others
+Angola,59,484270,Others
+Venezuela (Bolivarian Republic of),60,204284,Others
+Papua New Guinea,61,87199,Others
+Philippines,65,751882,Others
+Lao People’s Democratic Republic,68,51209,Others
+Gabon,70,19335,Others
+Bosnia and Herzegovina,73,7283,Others
+South Africa,74,299668,Others
+Congo,75,41663,Others
+Madagascar,75,208797,Others
+Micronesia (Federated States of ),75,627,Others
+Viet Nam,75,392917,Others
+Benin,76,93958,Others
+Cameroon,79,176254,Others
+Indonesia,79,996305,Others
+Mozambique,80,210213,Others
+El Salvador,81,21957,Others
+Marshall Islands,81,258,Others
+Mauritania,81,26720,Others
+Senegal,81,100758,Others
+Tonga,81,473,Others
+Côte d’Ivoire,82,151916,Others
+Bolivia (Plurinational State of),83,40778,Others
+Brazil,83,489308,Others
+Lebanon,83,19710,Others
+Timor-Leste,83,6123,Others
+Djibouti,84,3181,Others
+Liberia,84,24173,Others
+Peru,84,90602,Others
+Austria,85,13187,Others
+Ecuador,85,49800,Others
+Solomon Islands,85,3127,Others
+Vanuatu,85,1270,Others
+Argentina,86,104614,Others
+Guatemala,86,58140,Others
+Romania,86,26308,Others
+Montenegro,87,955,Others
+Guinea-Bissau,88,7459,Others
+Mexico,88,262877,Others
+Panama,88,9378,Others
+Paraguay,88,16852,Others
+Togo,88,29845,Others
+India,89,2575043,Others
+Namibia,89,7464,Others
+Tuvalu,89,31,Others
+Zimbabwe,89,46810,Others
+Bahamas,90,536,Others
+Burundi,90,41845,Others
+Eswatini,90,2876,Others
+Honduras,90,20429,Others
+Nauru,90,27,Others
+San Marino,90,23,Others
+Sierra Leone,90,23559,Others
+Zambia,90,60083,Others
+Algeria,91,90163,Others
+Burkina Faso,91,63954,Others
+Canada,91,34605,Others
+Comoros,91,2264,Others
+Finland,91,4597,Others
+Iceland,91,366,Others
+Myanmar,91,81701,Others
+Nepal,91,49333,Others
+North Macedonia,91,2004,Others
+Uruguay,91,4264,Others
+Armenia,92,3261,Others
+Bulgaria,92,4995,Others
+Cambodia,92,28515,Others
+Colombia,92,58172,Others
+Estonia,92,1088,Others
+Kenya,92,114134,Others
+Lithuania,92,2311,Others
+Malawi,92,47654,Others
+Croatia,93,2569,Others
+Gambia,93,5889,Others
+Georgia,93,3740,Others
+Germany,93,54332,Others
+Lesotho,93,3715,Others
+Netherlands,93,12029,Others
+New Zealand,93,4163,Others
+Republic of Moldova,93,2827,Others
+Slovenia,93,1402,Others
+Spain,93,27515,Others
+Uganda,93,108735,Others
+Costa Rica,94,4158,Others
+Dominica,94,58,Others
+Dominican Republic,94,12116,Others
+Ireland,94,3714,Others
+Kyrgyzstan,94,9178,Others
+United Kingdom of Great Britain and Northern Ireland,94,46341,Others
+United States of America,94,233389,Others
+Antigua and Barbuda,95,73,Others
+Australia,95,15870,Others
+Azerbaijan,95,8175,Others
+Barbados,95,151,Others
+Botswana,95,2719,Others
+Chile,95,11496,Others
+Egypt,95,127545,Others
+Eritrea,95,5079,Others
+Guyana,95,757,Others
+Italy,95,22801,Others
+Kiribati,95,155,Others
+Palau,95,12,Others
+Poland,95,18498,Others
+Saint Lucia,95,108,Others
+Sao Tome and Principe,95,325,Others
+Suriname,95,525,Others
+Belize,96,315,Others
+Czechia,96,4407,Others
+France,96,29081,Others
+Grenada,96,72,Others
+Jordan,96,8510,Others
+Latvia,96,818,Others
+Norway,96,2362,Others
+Saudi Arabia,96,23773,Others
+Serbia,96,3312,Others
+Singapore,96,2007,Others
+Slovakia,96,2258,Others
+Switzerland,96,3500,Others
+Tajikistan,96,10864,Others
+Belarus,97,3333,Others
+Bhutan,97,382,Others
+Democratic People’s Republic of Korea,97,10501,Others
+Denmark,97,1839,Others
+Ghana,97,25353,Others
+Jamaica,97,1401,Others
+Libya,97,3739,Others
+Malta,97,129,Others
+Mauritius,97,382,Others
+Russian Federation,97,54934,Others
+Rwanda,97,11387,Others
+Saint Kitts and Nevis,97,20,Others
+Saint Vincent and The Grenadines,97,46,Others
+Sweden,97,3552,Others
+Thailand,97,21366,Others
+Tunisia,97,6013,Others
+Bangladesh,98,57166,Others
+Belgium,98,2484,Others
+Cabo Verde,98,208,Others
+Israel,98,3391,Others
+Kazakhstan,98,7613,Others
+Nicaragua,98,2625,Others
+Qatar,98,526,Others
+Republic of Korea,98,7527,Others
+Turkey,98,26029,Others
+United Republic of Tanzania,98,39743,Others
+Uzbekistan,98,13643,Others
+Albania,99,337,Others
+Andorra,99,6,Others
+Bahrain,99,218,Others
+Brunei Darussalam,99,63,Others
+China,99,166625,Others
+Cook Islands,99,3,Others
+Cuba,99,1146,Others
+Cyprus,99,124,Others
+Fiji,99,185,Others
+Greece,99,809,Others
+Hungary,99,912,Others
+Iran (Islamic Republic of),99,15163,Others
+Japan,99,9450,Others
+Kuwait,99,567,Others
+Luxembourg,99,64,Others
+Malaysia,99,5254,Others
+Maldives,99,71,Others
+Monaco,99,6,Others
+Mongolia,99,749,Others
+Morocco,99,6684,Others
+Niue,99,0,Others
+Oman,99,905,Others
+Portugal,99,798,Others
+Seychelles,99,16,Others
+Sri Lanka,99,3334,Others
+State of Palestine,99,1402,Others
+Trinidad and Tobago,99,176,Others
+Turkmenistan,99,1331,Others
+United Arab Emirates,99,997,Others

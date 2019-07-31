@@ -1,0 +1,34 @@
+.bubble-chart text {
+  font-size: 1.2em;
+}
+
+.bubble-chart {
+  margin-top: -16px;
+}
+
+.bubble-chart .visualization-title {
+  text-anchor: middle;
+  font-weight: bold;
+}
+
+.bubble-chart circle.inner {
+  /* mix-blend-mode: multiply; */
+  stroke: black;
+  stroke-opacity: 0.0;
+}
+
+.bubble-chart-key {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  left: 0px;
+  margin-bottom: -84px;
+  margin-top: -66px;
+}
+
+.bubble-chart-legend {
+  margin-left: auto;
+  margin-right: auto;
+  width: 360px;
+  margin-bottom: -48px;
+}

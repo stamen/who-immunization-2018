@@ -1,0 +1,36 @@
+h1 {
+  position: absolute;
+  left: 100px;
+  top: 700px;
+  font-size: 96px;
+  text-align: center;
+}
+
+div.legendContainer {
+  position: absolute;
+  z-index: 100;
+  left: 100px;
+  top: 900px;
+}
+
+div.legend {
+  font-weight: bold;
+  font-size: 28px;
+  //width: 300px;
+
+  h2 {
+    margin-bottom: .25em;
+  }
+}
+
+div.color-legend {
+  width: 600px;
+  height: 350px;
+}
+
+div.size-legend {
+  //width: 400px;
+  //position: absolute;
+  //top: 240px;
+  width: 900px;
+}

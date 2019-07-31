@@ -1,0 +1,30 @@
+body {
+  margin: 20px;
+  padding: 13px;
+  line-height: 1.4em;
+  font-family: sans-serif;
+  background: #fff;
+}
+
+.value:hover {
+  background: #fff;
+}
+
+.plot {
+  margin-left: 20px;
+}
+
+.value {
+  margin-left: 20px;
+}
+
+div.multiples > div {
+  float: left;
+}
+
+h4 {
+  margin-bottom: 0.2em;
+  font-size: 1.2em;
+}
+
+/*# sourceMappingURL=/gavi_non_gavi_punch.bde62d5c.css.map */

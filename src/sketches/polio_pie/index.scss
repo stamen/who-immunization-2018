@@ -1,0 +1,73 @@
+$bothColor: green;
+$onlyOPVColor: orange;
+$notProtectedColor: red;
+
+body {
+  font-size: 11px;
+}
+
+path.background {
+  fill: #ddd;
+  stroke: rgba(0,0,0,0.2);
+  //stroke: white;
+}
+
+path.bothOPVAndIPV {
+  fill: $bothColor;
+  stroke: rgba(0,0,0,0.2);
+  //stroke: lighten($bothColor, 25);
+}
+
+path.onlyOPV {
+  fill: $onlyOPVColor;
+  stroke: rgba(0,0,0,0.2);
+  //stroke: lighten($onlyOPVColor, 25);
+}
+
+path.notProtected {
+  fill: $notProtectedColor;
+  stroke: rgba(0,0,0,0.2);
+  //stroke: lighten($notProtectedColor, 25);
+}
+
+div.color-swatch.bothOPVAndIPV {
+  background-color: $bothColor;
+}
+div.color-swatch.onlyOPV {
+  background-color: $onlyOPVColor;
+}
+div.color-swatch.notProtected {
+  background-color: $notProtectedColor;
+}
+
+div.polio_pie_labels {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  div.polio_pie_label {
+    position: absolute;
+
+    div.country_name {
+      width: 100%;
+      text-align: center;
+      margin-bottom: 0.25em;
+    }
+
+    span.percentage {
+      margin-right: 0.5em;
+
+      font-weight: bold;
+
+      &.bothOPVAndIPV {
+        color: $bothColor;
+      }
+      &.onlyOPV {
+        color: $onlyOPVColor;
+      }
+      &.notProtected {
+        color: $notProtectedColor;
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+.bubble-chart text {
+  font-size: 1.2em;
+}
+
+.bubble-chart {
+  margin-top: -16px;
+}
+
+.bubble-chart .visualization-title {
+  text-anchor: middle;
+  font-weight: bold;
+}
+
+.bubble-chart circle.inner {
+  /* mix-blend-mode: multiply; */
+  stroke: black;
+  stroke-opacity: 0;
+}
+
+.bubble-chart-key {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  left: 0px;
+  margin-bottom: -84px;
+  margin-top: -66px;
+}
+
+.bubble-chart-legend {
+  margin-left: auto;
+  margin-right: auto;
+  width: 360px;
+  margin-bottom: -48px;
+}
+body {
+  font-family: sans-serif;
+}
+
+nav a {
+  display: block;
+}
+
+.line {
+  fill: none;
+  stroke: #ffab00;
+  stroke-width: 3;
+}
+
+.line.secondary {
+  stroke: #00ab00;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+/* Style the dots by assigning a fill and stroke */
+.dot {
+  fill: #ffab00;
+  stroke: #fff;
+}
+
+.focus circle {
+  fill: none;
+  stroke: steelblue;
+}
+
+g.tick text {
+  font-size: 12px;
+}
+
+.yaxis g.tick text {
+  color: #ffab00;
+}
+
+.yaxis.secondary g.tick text {
+  color: #00ab00;
+}
+
+.legend {
+  right: 250px;
+  width: 250px;
+}
+.legend .legend-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 1em;
+}
+.legend .legend-item .color-swatch {
+  flex: 0 0 auto;
+  height: 20px;
+  width: 20px;
+  margin-right: 1em;
+}
+.legend .legend-item .color-swatch.secondary {
+  background-color: #00ab00;
+}
+
+g.title {
+  font-size: 32px;
+  font-weight: bold;
+}
+body {
+  background-color: white;
+}
+
+g.legend {
+  font-size: 10px;
+}
+
+/*# sourceMappingURL=/01_top_10_bubble.5ec50619.css.map */
